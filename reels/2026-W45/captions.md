@@ -11,7 +11,7 @@ Previous angles avoided (W44): Bonfire Night prep, frost turnout checks, dark do
 
 - File: `2026-11-03_mud-fever-legs_voice_music.mp4` (27.0s)
 - Voice: bm_fable
-- Slot: Tue 3 Nov, 19:30 (Metricool draft)
+- Slot: Tue 3 Nov, 18:00 (Metricool draft; best-time hour)
 - Comment question: What's your trick for muddy legs?
 - Winning hook: Stop hosing muddy legs every night. Let them dry, then brush. (scored 78.8, STRONG)
 
@@ -78,7 +78,7 @@ Stop hosing muddy legs every night 🐴 What's your trick for muddy legs? Free a
 
 - File: `2026-11-05_cats-and-cars_voice_music.mp4` (22.8s)
 - Voice: bf_emma
-- Slot: Thu 5 Nov, 19:30 (Metricool draft)
+- Slot: Thu 5 Nov, 18:00 (Metricool draft; best-time hour)
 - Comment question: Where's your cat's favourite warm spot?
 - Winning hook: Stop. Three cat checks before you start the car. (scored 100, STRONG; script uses four checks, so on screen it reads "Stop. 4 cat checks before you drive.")
 
