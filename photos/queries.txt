@@ -1,0 +1,14 @@
+# folder | Openverse search words | how many to keep (CC0 / public domain only)
+horse-winter | horse winter snow | 10
+horse-rug | horse blanket rug | 8
+horse-field | horse field pasture | 10
+horse-portrait | horse head portrait | 8
+horse-hoof | horse hoof | 6
+horse-hay | horse eating hay | 6
+horse-stable | horse stable barn | 6
+dog-walk | dog walking leash | 8
+dog-winter | dog snow | 6
+dog-portrait | dog portrait | 8
+puppy | puppy | 6
+cat | cat portrait | 8
+cat-winter | cat window | 4
