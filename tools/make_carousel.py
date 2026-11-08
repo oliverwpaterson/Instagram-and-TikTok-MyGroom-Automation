@@ -62,7 +62,7 @@ def brand(im, d, n, total, icon):
     d.text((PAD + 94, 76), "MyGroom", font=SERIF(38), fill=CREAM)
     t = f"{n} / {total}"
     f = SANSB(26); tw = d.textlength(t, font=f)
-    d.rounded_rectangle([W - PAD - tw - 36, 72, W - PAD, 118], radius=23, fill=(0, 0, 0, 0), outline=CREAM, width=2)
+    d.rounded_rectangle([W - PAD - tw - 36, 72, W - PAD, 118], radius=23, outline=CREAM, width=2)
     d.text((W - PAD - tw - 18, 80), t, font=f, fill=CREAM)
 
 def text_block(d, lines, f, y, fill, lh):
@@ -70,7 +70,11 @@ def text_block(d, lines, f, y, fill, lh):
         d.text((PAD, y), l, font=f, fill=fill); y += lh
     return y
 
+APPROVED = json.load(open(os.path.join(LIB, "credits.json"))) if os.path.exists(os.path.join(LIB, "credits.json")) else {}
+
 def photo_bg(photo, focus):
+    if not APPROVED.get(photo, {}).get("approved"):
+        raise SystemExit(f"photo not approved in photos/library/credits.json: {photo}")
     im = Image.open(os.path.join(LIB, photo)).convert("RGB")
     im = cover_crop(im, focus)
     # soft top shade so the logo reads on bright skies
@@ -97,7 +101,10 @@ def slide_cover(s, n, total, label, icon):
     y += 70
     y = text_block(d, lines, f, y, CREAM, int(size * 1.05)) + 20
     y = text_block(d, sub, SANS(44), y, CREAM, 60)
-    d.text((PAD, y + 40), "Swipe  →", font=SANSB(36), fill=CORAL)
+    d.text((PAD, y + 40), "Swipe", font=SANSB(36), fill=CORAL)
+    ax = PAD + d.textlength("Swipe", font=SANSB(36)) + 18; ay = y + 64
+    d.line([(ax, ay), (ax + 44, ay)], fill=CORAL, width=5)
+    d.polygon([(ax + 44, ay - 12), (ax + 62, ay), (ax + 44, ay + 12)], fill=CORAL)
     return im
 
 def slide_point(s, n, total, k, icon):
@@ -120,7 +127,7 @@ def slide_end(s, n, total, icon):
         k = y / H; d.line([(0, y), (W, y)], fill=tuple(int(FOREST[i] + (FOREST2[i] - FOREST[i]) * k) for i in range(3)))
     brand(im, d, n, total, icon)
     y = 300
-    d.text((PAD, y), "★  SAVE THIS", font=SANSB(30), fill=CORAL); y += 80
+    d.text((PAD, y), "SAVE THIS", font=SANSB(30), fill=CORAL); y += 80
     y = text_block(d, wrap(d, s["title"], SERIF(84), W - 2 * PAD), SERIF(84), y, CREAM, 92) + 60
     if s.get("question"):
         d.line([(PAD, y), (W - PAD, y)], fill=(62, 100, 86), width=2); y += 50

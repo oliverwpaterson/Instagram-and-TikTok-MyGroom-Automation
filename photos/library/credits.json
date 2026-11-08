@@ -239,21 +239,6 @@
   "source": "wikimedia",
   "title": "File:Beautiful Brown Horse (198516275).jpeg"
  },
- "horse-field/a696a2ae-f409-4bb8-a1a4-18b33c9f7d9f.jpg": {
-  "approved": true,
-  "creator": "Chetan Vaghela",
-  "folder": "horse-field",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://wordpress.org/photos/photo/866678f37b/",
-  "query": "horse field pasture",
-  "size": [
-   1800,
-   1350
-  ],
-  "source": "wordpress",
-  "title": "A brown horse with visible ribs grazes on green grass in a lush, overgrown field surrounded by dense foliage."
- },
  "horse-field/caa34827-01fe-4695-b78e-2bd4d71f8a47.jpg": {
   "approved": true,
   "creator": "World Wildlife",
@@ -358,21 +343,6 @@
   ],
   "source": "wordpress",
   "title": "Horse in a barn"
- },
- "horse-stable/f243b849-08a4-4583-ae81-498370e2321f.jpg": {
-  "approved": true,
-  "creator": "U.S. Army",
-  "folder": "horse-stable",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/3578439/free-photo-image-animal-barn-brown",
-  "query": "horse stable barn",
-  "size": [
-   1300,
-   962
-  ],
-  "source": "rawpixel",
-  "title": "Horses in corral"
  },
  "horse-winter/6636f908-8826-4f06-97de-4651e3792444.jpg": {
   "approved": true,
