@@ -1,11 +1,8 @@
 name: Fetch photo library
-# Downloads CC0 / public-domain photos from Openverse into photos/library/.
-# Runs when photos/queries.txt changes, or by hand from the Actions tab.
+# Downloads CC0 / public-domain photos from Openverse into photos/incoming/ for review.
+# Only run by hand (Actions tab, or gh api .../dispatches). Nothing in incoming/ is used until reviewed.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ['photos/queries.txt', 'tools/fetch_photos.py']
 permissions:
   contents: write
 concurrency:
@@ -26,8 +23,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add photos/library
+          git add photos/incoming
           if git diff --cached --quiet; then echo "No new photos"; exit 0; fi
-          git commit -m "Add photos to library"
+          git commit -m "Add photos for review"
           git pull --rebase origin main
           git push origin main

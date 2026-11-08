@@ -1,4 +1,7 @@
-"""Download free-to-use real photos (CC0 / public domain only) from Openverse into photos/library/.
+"""Download free-to-use real photos (CC0 / public domain only) from Openverse into photos/incoming/ FOR REVIEW.
+Nothing here is used in posts until a person/Claude has looked at it and moved it into photos/library/
+(and marked it "approved": true in photos/library/credits.json). Openverse results include drawings,
+museum pieces and occasionally adult content, so review is mandatory.
 Reads photos/queries.txt: one "folder|search words|how many" per line. Skips images already downloaded.
 Writes photos/library/credits.json with the source of every image (good practice even when no credit is required).
 Run by .github/workflows/fetch-photos.yml (GitHub's servers have open internet access)."""
@@ -6,8 +9,10 @@ import io, json, os, sys, time, urllib.parse, urllib.request
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LIB = os.path.join(ROOT, "photos", "library")
+LIB = os.path.join(ROOT, "photos", "incoming")
 CREDITS = os.path.join(LIB, "credits.json")
+APPROVED = os.path.join(ROOT, "photos", "library", "credits.json")
+BLOCK = ["clipart", "clip art", "png", "sticker", "illustration", "drawing", "vintage", "engraving", "painting", "etching", "museum", "sculpture", "statue", "portrait of", "cartoon", "vector", "icon", "logo", "nude", "naked", "fetish", "bdsm", "gay", "sexy", "erotic", "play", "lingerie", "wild", "wolf", "fox", "dhole", "hunting", "meat", "dead"]
 UA = {"User-Agent": "MyGroomPhotoLibrary/1.0 (+https://www.mygroom.co.uk)"}
 
 def get(url, timeout=30):
@@ -18,6 +23,7 @@ def get(url, timeout=30):
 def main():
     os.makedirs(LIB, exist_ok=True)
     credits = json.load(open(CREDITS)) if os.path.exists(CREDITS) else {}
+    seen = set(credits) | set(json.load(open(APPROVED)) if os.path.exists(APPROVED) else {})
     lines = [l.strip() for l in open(os.path.join(ROOT, "photos", "queries.txt")) if l.strip() and not l.startswith("#")]
     for line in lines:
         folder, query, n = [p.strip() for p in line.split("|")]
@@ -27,7 +33,7 @@ def main():
         os.makedirs(os.path.join(LIB, folder), exist_ok=True)
         page, got = 1, 0
         while got < need and page <= 5:
-            q = urllib.parse.urlencode({"q": query, "license": "cc0,pdm", "mature": "false", "size": "large", "page_size": 20, "page": page})
+            q = urllib.parse.urlencode({"q": query, "license": "cc0,pdm", "category": "photograph", "mature": "false", "size": "large", "page_size": 20, "page": page})
             try:
                 res = json.loads(get(f"https://api.openverse.org/v1/images/?{q}"))
             except Exception as e:
@@ -35,7 +41,9 @@ def main():
             for it in res.get("results", []):
                 if got >= need: break
                 key = f"{folder}/{it['id']}.jpg"
-                if key in credits: continue
+                if key in seen: continue
+                words = " ".join([str(it.get("title") or "")] + [t.get("name", "") for t in (it.get("tags") or [])]).lower()
+                if any(b in words for b in BLOCK) or it.get("mature"): continue
                 w, h = it.get("width") or 0, it.get("height") or 0
                 if min(w, h) < 900: continue
                 try:

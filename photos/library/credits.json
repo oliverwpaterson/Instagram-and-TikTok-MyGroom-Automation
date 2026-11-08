@@ -1,5 +1,6 @@
 {
  "cat-winter/6a3a0263-89e0-4eb6-827a-37d4c33c29c6.jpg": {
+  "approved": true,
   "creator": "Hermann Luyken",
   "folder": "cat-winter",
   "license": "cc0",
@@ -14,6 +15,7 @@
   "title": "File:2011.09.17.113926 Cats window Place de l\u00c9tolie Obernai.jpg"
  },
  "cat-winter/c5a73bfa-d60b-44a7-b79e-4724ff275a43.jpg": {
+  "approved": true,
   "creator": "Hermann Luyken",
   "folder": "cat-winter",
   "license": "cc0",
@@ -27,21 +29,8 @@
   "source": "wikimedia",
   "title": "File:2014.06.21.115327 Cat window Herrenstra\u00dfe M\u00fcnstermaifeld.jpg"
  },
- "cat-winter/d3ea46d0-252c-4e9f-a687-92d629b3beea.jpg": {
-  "creator": "Hermann Luyken",
-  "folder": "cat-winter",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=33593675",
-  "query": "cat window",
-  "size": [
-   1800,
-   1200
-  ],
-  "source": "wikimedia",
-  "title": "File:2014.06.21.115317 Cat window Herrenstra\u00dfe M\u00fcnstermaifeld.jpg"
- },
  "cat-winter/d5366f0a-34c1-406a-86a1-8d5b4ff6e196.jpg": {
+  "approved": true,
   "creator": "Hermann Luyken",
   "folder": "cat-winter",
   "license": "cc0",
@@ -55,35 +44,8 @@
   "source": "wikimedia",
   "title": "File:2014.06.21.115338 Cat window Herrenstra\u00dfe M\u00fcnstermaifeld.jpg"
  },
- "cat/0ac47798-a58a-4ebd-a53f-efb27a4a3c41.jpg": {
-  "creator": null,
-  "folder": "cat",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6283179/image-face-public-domain-black",
-  "query": "cat portrait",
-  "size": [
-   1024,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Cat portrait hand drawn illustration"
- },
- "cat/1b5c6b4f-f490-44a9-9799-c388a99ca441.jpg": {
-  "creator": null,
-  "folder": "cat",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6283258/vector-face-sticker-public-domain",
-  "query": "cat portrait",
-  "size": [
-   1024,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Cat portrait hand drawn, illustration"
- },
  "cat/a350fca7-4405-402b-9e51-fbf2b86a10ce.jpg": {
+  "approved": true,
   "creator": "Maxinjo",
   "folder": "cat",
   "license": "cc0",
@@ -97,217 +59,8 @@
   "source": "wikimedia",
   "title": "F2 Savannah Cat (portrait)"
  },
- "cat/ab2718ec-4955-4f36-901c-83db940fc67c.jpg": {
-  "creator": null,
-  "folder": "cat",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6535946/vector-vintage-public-domain-black",
-  "query": "cat portrait",
-  "size": [
-   1024,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Cat portrait clipart, vintage animal"
- },
- "cat/b67fe569-f1c2-49bc-8234-042f19d460bc.jpg": {
-  "creator": null,
-  "folder": "cat",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6535877/image-vintage-public-domain-black",
-  "query": "cat portrait",
-  "size": [
-   1024,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Cat portrait drawing, vintage animal"
- },
- "cat/d26b45fa-c242-405d-b816-360919f1d9ee.jpg": {
-  "creator": null,
-  "folder": "cat",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6283172/png-face-sticker",
-  "query": "cat portrait",
-  "size": [
-   1300,
-   1300
-  ],
-  "source": "rawpixel",
-  "title": "Cat portrait png sticker, hand"
- },
- "cat/dfb2cfc1-2207-416e-a800-b30cdfccbf08.jpg": {
-  "creator": null,
-  "folder": "cat",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6535867/png-vintage-public-domain",
-  "query": "cat portrait",
-  "size": [
-   1300,
-   1300
-  ],
-  "source": "rawpixel",
-  "title": "Cat portrait png sticker, vintage"
- },
- "dog-portrait/20104817-d33b-4796-bf20-36bd9804dcba.jpg": {
-  "creator": "Hendrick Goltzius",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=77880928",
-  "query": "dog portrait",
-  "size": [
-   1337,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "File:Hendrick Goltzius - Portrait of Frederick de Vries and His Dog - 1951.275 - Cleveland Museum of Art.tif"
- },
- "dog-portrait/41f8d5cf-adb8-457b-8cc0-342127c0ed7a.jpg": {
-  "creator": "Minneapolis Institute of Art",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=117283816",
-  "query": "dog portrait",
-  "size": [
-   1201,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Processional Portrait of Prince Bhawani Singh of Sitamau, 1855"
- },
- "dog-portrait/646bb7a0-6b97-43b5-8802-2d08bf07a2a4.jpg": {
-  "creator": "Erasmus Quellinus II",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=71001814",
-  "query": "dog portrait",
-  "size": [
-   1350,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "<div class='fn'> <div style='font-weight:bold;display:inline-block;'><div style='display:inline-block' dir='ltr' lang='en'><i>Portrait of a boy with a falcon and two dogs <span class='mw-valign-text-top' typeof='mw:File/Frameless'><a href='https://www.wikidata.org/wiki/Q21614710#P1476' title='Edit this at Wikidata'><img alt='Edit this at Wikidata' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png' decoding='async' width='10' height='10' class='mw-file-element' srcset='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x' data-file-width='20' data-file-height='20'></a></span></i></div></div><div style='display: none;'>title QS:P1476,en:'Portrait of a boy with a falcon and two dogs <span class='mw-valign-text-top' typeof='mw:File/Frameless'><a href='https://www.wikidata.org/wiki/Q21614710#P1476' title='Edit this at Wikidata'><img alt='Edit this at Wikidata' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png' decoding='async' width='10' height='10' class='mw-file-element' srcset='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x' data-file-width='20' data-file-height='20'></a></span>'</div> <div style='display: none;'>label QS:Len,'Portrait of a boy with a falcon and two dogs <span class='mw-valign-text-top' typeof='mw:File/Frameless'><a href='https://www.wikidata.org/wiki/Q21614710#P1476' title='Edit this at Wikidata'><img alt='Edit this at Wikidata' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png' decoding='async' width='10' height='10' class='mw-file-element' srcset='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x' data-file-width='20' data-file-height='20'></a></span>'</div> <div style='display: none;'>label QS:Lfr,'Portrait d\u2019un jeune gar\u00e7on'</div> <div style='display: none;'>label QS:Lde,'Portr\u00e4t eines Jungen'</div> <div style='display: none;'>label QS:Lnl,'Portret van een jongetje'</div></div>"
- },
- "dog-portrait/98fc7841-11e4-4007-832e-d6356325da15.jpg": {
-  "creator": "Creator:Rufus Anson",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=60495201",
-  "query": "dog portrait",
-  "size": [
-   1616,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "File:-Dog Posing for Portrait in Photographer's Studio Chair- MET DP120344.jpg"
- },
- "dog-portrait/a3d0ce62-d347-4a0e-9bca-0efbb2889c93.jpg": {
-  "creator": "Achille Dev\u00e9ria",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=151914518",
-  "query": "dog portrait",
-  "size": [
-   1424,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Portrait of a Gentleman keeping a dog on the leash, by Achille Dev\u00e9ria (Getty 1045RG)"
- },
- "dog-portrait/c41346e7-ea68-4e88-ad1f-8fff19c432ca.jpg": {
-  "creator": "Edgar Degas",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=76310126",
-  "query": "dog portrait",
-  "size": [
-   1139,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "<div class='fn'> Ludovic Lepic Holding His Dog</div>"
- },
- "dog-portrait/e6432fcb-f600-4bca-bbaa-fa043b30de55.jpg": {
-  "creator": "Mathias Appel",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=121744440",
-  "query": "dog portrait",
-  "size": [
-   1503,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "African wild dog (portrait)"
- },
- "dog-portrait/fd8592e1-e051-4bde-b31b-b754be9b980d.jpg": {
-  "creator": "Photograph by Mike Peel (www.mikepeel.net). Herschel Museum of Astronomy.",
-  "folder": "dog-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=37512725",
-  "query": "dog portrait",
-  "size": [
-   1550,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "William Herschel Museum - portrait of Vananzio Rauzzini"
- },
- "dog-walk/0c0c7cf7-ac04-4f0c-aa64-517f934cfdc9.jpg": {
-  "creator": null,
-  "folder": "dog-walk",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/7664061/image-dog-cartoon-illustrations",
-  "query": "dog walking leash",
-  "size": [
-   1024,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Dog walking illustration"
- },
- "dog-walk/20a1b9ca-3b80-4ce1-9ac6-1103278ea562.jpg": {
-  "creator": "PinchyCC",
-  "folder": "dog-walk",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=162808757",
-  "query": "dog walking leash",
-  "size": [
-   1800,
-   1350
-  ],
-  "source": "wikimedia",
-  "title": "Marina Beach Park Regulations"
- },
- "dog-walk/812ff83d-56a8-418f-9d8b-d3191e933243.jpg": {
-  "creator": null,
-  "folder": "dog-walk",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6870749/png-sticker-public-domain",
-  "query": "dog walking leash",
-  "size": [
-   1300,
-   929
-  ],
-  "source": "rawpixel",
-  "title": "Girl png sticker walk dog"
- },
  "dog-walk/8da705b6-e419-48b7-8fe8-0fd872195728.jpg": {
+  "approved": true,
   "creator": "Matt Bango",
   "folder": "dog-walk",
   "license": "cc0",
@@ -321,49 +74,8 @@
   "source": "stocksnap",
   "title": "Walking Dog"
  },
- "dog-walk/a8622ca9-a445-4554-8a31-0a3a601da141.jpg": {
-  "creator": "Bernard Spragg. NZ from Christchurch, New Zealand",
-  "folder": "dog-walk",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=70713105",
-  "query": "dog walking leash",
-  "size": [
-   1800,
-   1063
-  ],
-  "source": "wikimedia",
-  "title": "File:Lake Hayes Walkway. Queenstown NZ (25966818254).jpg"
- },
- "dog-walk/b95c2356-7cf6-4fc6-9454-befb169ae058.jpg": {
-  "creator": null,
-  "folder": "dog-walk",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/7669320/png-dog-people",
-  "query": "dog walking leash",
-  "size": [
-   1300,
-   1300
-  ],
-  "source": "rawpixel",
-  "title": "PNG Dog walking clipart, transparent"
- },
- "dog-walk/f73e685a-19c6-42cd-ba6a-a461f7fc3e9d.jpg": {
-  "creator": null,
-  "folder": "dog-walk",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6870741/png-sticker-public-domain",
-  "query": "dog walking leash",
-  "size": [
-   1300,
-   1300
-  ],
-  "source": "rawpixel",
-  "title": "Woman png sticker walk dog"
- },
  "dog-winter/77504c3b-6b44-4218-a75e-835c2cc598e3.jpg": {
+  "approved": true,
   "creator": "Carole Olinger",
   "folder": "dog-winter",
   "license": "cc0",
@@ -378,6 +90,7 @@
   "title": "Winter landscape on a sunny day with a small dog enjoying the snow during their walk. winter, dog, snow, winterwonderland"
  },
  "dog-winter/9696f929-59d9-4508-81fc-ec3fae278aec.jpg": {
+  "approved": true,
   "creator": "Dawid Sobolewski",
   "folder": "dog-winter",
   "license": "cc0",
@@ -392,6 +105,7 @@
   "title": "Dog Animal"
  },
  "dog-winter/d62a519d-8655-4ca0-8bda-7de30ae076c2.jpg": {
+  "approved": true,
   "creator": "Magda K from Opole, Poland",
   "folder": "dog-winter",
   "license": "cc0",
@@ -406,6 +120,7 @@
   "title": "Dog in snow jacket"
  },
  "horse-field/47840dba-00c9-4c36-ae06-5fc60382737c.jpg": {
+  "approved": true,
   "creator": "Free Nature Stock",
   "folder": "horse-field",
   "license": "cc0",
@@ -420,6 +135,7 @@
   "title": "Horses Pasture"
  },
  "horse-field/5210b744-ab2a-4202-b837-721acfeb454e.jpg": {
+  "approved": true,
   "creator": "Free Nature Stock",
   "folder": "horse-field",
   "license": "cc0",
@@ -434,6 +150,7 @@
   "title": "Pasture Grazing"
  },
  "horse-field/5a026897-8e6a-451b-b7ab-200e4a02733c.jpg": {
+  "approved": true,
   "creator": "Free Nature Stock",
   "folder": "horse-field",
   "license": "cc0",
@@ -448,6 +165,7 @@
   "title": "Horse Animal"
  },
  "horse-field/5c31a093-3580-4e37-b844-b6a8c1067634.jpg": {
+  "approved": true,
   "creator": "Matt Bango",
   "folder": "horse-field",
   "license": "cc0",
@@ -462,6 +180,7 @@
   "title": "Horses Pasture"
  },
  "horse-field/61c2443c-67a6-4ddb-86d4-7126d57d1547.jpg": {
+  "approved": true,
   "creator": "Austin Vargas Madrigal",
   "folder": "horse-field",
   "license": "cc0",
@@ -476,6 +195,7 @@
   "title": "A young brown horse stands in a grassy field, gazing towards the camera. In the background, there are trees and rolling hills under a clear blue sky. The horse has a white marking on its face and appears healthy and alert."
  },
  "horse-field/796fba4f-d553-4e36-b0a5-13a2540d7a01.jpg": {
+  "approved": true,
   "creator": "indiraramguz",
   "folder": "horse-field",
   "license": "cc0",
@@ -490,6 +210,7 @@
   "title": "A white horse stands in a green field in Orosi, with a wooden fence, rolling hills, and misty mountains under a cloudy sky."
  },
  "horse-field/9f9e5619-3cbb-4452-80a5-9797356d2ebe.jpg": {
+  "approved": true,
   "creator": "Marko Tabak",
   "folder": "horse-field",
   "license": "cc0",
@@ -504,6 +225,7 @@
   "title": "Farming Pasture"
  },
  "horse-field/a4483fcd-3f54-48c5-ab7d-8102c66c212e.jpg": {
+  "approved": true,
   "creator": "Halyna Feshchak",
   "folder": "horse-field",
   "license": "cc0",
@@ -518,6 +240,7 @@
   "title": "File:Beautiful Brown Horse (198516275).jpeg"
  },
  "horse-field/a696a2ae-f409-4bb8-a1a4-18b33c9f7d9f.jpg": {
+  "approved": true,
   "creator": "Chetan Vaghela",
   "folder": "horse-field",
   "license": "cc0",
@@ -532,6 +255,7 @@
   "title": "A brown horse with visible ribs grazes on green grass in a lush, overgrown field surrounded by dense foliage."
  },
  "horse-field/caa34827-01fe-4695-b78e-2bd4d71f8a47.jpg": {
+  "approved": true,
   "creator": "World Wildlife",
   "folder": "horse-field",
   "license": "cc0",
@@ -546,6 +270,7 @@
   "title": "Horses Pasture"
  },
  "horse-hay/52467619-9b51-4691-abad-cd0416978b0c.jpg": {
+  "approved": true,
   "creator": "Wikideas1",
   "folder": "horse-hay",
   "license": "cc0",
@@ -560,6 +285,7 @@
   "title": "Horse eating hay"
  },
  "horse-hay/5d81cc90-148a-4505-be6b-37912949ca95.jpg": {
+  "approved": true,
   "creator": "Minolaf",
   "folder": "horse-hay",
   "license": "cc0",
@@ -573,91 +299,8 @@
   "source": "wikimedia",
   "title": "Horse eating fodder"
  },
- "horse-hoof/2b36db31-9a36-43a3-88c6-de14c4a23fbd.jpg": {
-  "creator": "Rijksmuseum",
-  "folder": "horse-hoof",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=85274644",
-  "query": "horse hoof",
-  "size": [
-   1335,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Twee Moren op een dromedaris, RP-P-OB-27.001"
- },
- "horse-hoof/45fa77f4-c082-4c18-a1c5-23db7065b80a.jpg": {
-  "creator": null,
-  "folder": "horse-hoof",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=60413915",
-  "query": "horse hoof",
-  "size": [
-   1800,
-   1332
-  ],
-  "source": "wikimedia",
-  "title": "File:Gilt bronze horse's hoof and fetlock MET DP20666.jpg"
- },
- "horse-hoof/539e9c13-b8af-45a8-9463-b52c17005847.jpg": {
-  "creator": "Gary Lee Todd, Ph.D.",
-  "folder": "horse-hoof",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=104046571",
-  "query": "horse hoof",
-  "size": [
-   1200,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Gold Horse-hoof Money"
- },
- "horse-hoof/9405381f-cd2a-40b7-86f6-d0e1e3b9859d.jpg": {
-  "creator": "Gary Todd",
-  "folder": "horse-hoof",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=131379882",
-  "query": "horse hoof",
-  "size": [
-   1800,
-   1200
-  ],
-  "source": "wikimedia",
-  "title": "Han Stone Sculpture- Hun Intruder Hoofed by a War Horse"
- },
- "horse-hoof/a1f81259-e0c9-408b-8c00-41a3370d7d19.jpg": {
-  "creator": "Gary Todd from Xinzheng, China",
-  "folder": "horse-hoof",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=108881631",
-  "query": "horse hoof",
-  "size": [
-   1800,
-   1200
-  ],
-  "source": "wikimedia",
-  "title": "Western Han Gold Horse Hoof (9849858875)"
- },
- "horse-hoof/c507b019-8cfc-4c3d-8233-a075e7d59a63.jpg": {
-  "creator": "Rijksmuseum",
-  "folder": "horse-hoof",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=84299519",
-  "query": "horse hoof",
-  "size": [
-   1340,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Wildemans-vrouw met kinderen op een hert, RP-P-OB-914"
- },
  "horse-portrait/28719819-5eb9-4c6e-be43-9598c2f7c445.jpg": {
+  "approved": true,
   "creator": null,
   "folder": "horse-portrait",
   "license": "cc0",
@@ -671,77 +314,8 @@
   "source": "rawpixel",
   "title": null
  },
- "horse-portrait/396d6543-3c56-46e1-97e4-798df1e8e033.jpg": {
-  "creator": null,
-  "folder": "horse-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/8779880/sample-sheet-stylography-with-portrait-heads-farmer-horse-etc",
-  "query": "horse head portrait",
-  "size": [
-   1020,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Sample sheet stylography portrait heads"
- },
- "horse-portrait/8cb1e4f3-edc4-463a-b75d-487cea5d4c43.jpg": {
-  "creator": "",
-  "folder": "horse-portrait",
-  "license": "pdm",
-  "license_version": "1.0",
-  "page": "https://collections.museumsvictoria.com.au/items/271686",
-  "query": "horse head portrait",
-  "size": [
-   1800,
-   1681
-  ],
-  "source": "museumsvictoria",
-  "title": "Printers Proof - Sporting Globe, Phar Lap Collage, 1930s"
- },
- "horse-portrait/b473ac98-4fe7-414a-b1d6-0ee46f0ad12f.jpg": {
-  "creator": null,
-  "folder": "horse-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/7460949/image-horses-sea-art",
-  "query": "horse head portrait",
-  "size": [
-   1024,
-   1009
-  ],
-  "source": "rawpixel",
-  "title": "Chocolate cup, covered, saucer decorated"
- },
- "horse-portrait/f1ebf863-006c-4bbc-b55e-2080483d58f0.jpg": {
-  "creator": "State Government Photographer",
-  "folder": "horse-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=86862857",
-  "query": "horse head portrait",
-  "size": [
-   1800,
-   1350
-  ],
-  "source": "wikimedia",
-  "title": "<div class='fn'> A portrait of politician Frederick William Coneybeer</div>"
- },
- "horse-portrait/fcd9df39-5d8d-419b-84b3-90ab45f8d840.jpg": {
-  "creator": null,
-  "folder": "horse-portrait",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=78076691",
-  "query": "horse head portrait",
-  "size": [
-   1262,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "File:Iran, Rasht, 19th century - Prayer Rug - 1916.1297 - Cleveland Museum of Art.tif"
- },
  "horse-stable/4a5217b2-2964-447a-89b6-dcc28dc8a629.jpg": {
+  "approved": true,
   "creator": "Tomwsulcer",
   "folder": "horse-stable",
   "license": "cc0",
@@ -756,6 +330,7 @@
   "title": "File:Horse barn in New Jersey alongside Loantaka Way walking trail.JPG"
  },
  "horse-stable/4c0f5587-cd29-4004-b98b-0994767b6a83.jpg": {
+  "approved": true,
   "creator": "mdburnette",
   "folder": "horse-stable",
   "license": "cc0",
@@ -769,21 +344,8 @@
   "source": "wordpress",
   "title": "Horse stable cat"
  },
- "horse-stable/6205f177-22f7-43b1-b8f7-d670dced15de.jpg": {
-  "creator": "Tomwsulcer",
-  "folder": "horse-stable",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=29513249",
-  "query": "horse stable barn",
-  "size": [
-   1800,
-   1350
-  ],
-  "source": "wikimedia",
-  "title": "File:Loantaka Way view of horse barn and stream.JPG"
- },
  "horse-stable/e4602385-09be-4c59-ae7f-831a2f3fccee.jpg": {
+  "approved": true,
   "creator": "trish7474",
   "folder": "horse-stable",
   "license": "cc0",
@@ -798,6 +360,7 @@
   "title": "Horse in a barn"
  },
  "horse-stable/f243b849-08a4-4583-ae81-498370e2321f.jpg": {
+  "approved": true,
   "creator": "U.S. Army",
   "folder": "horse-stable",
   "license": "cc0",
@@ -811,49 +374,8 @@
   "source": "rawpixel",
   "title": "Horses in corral"
  },
- "horse-stable/feef8a65-6964-4a2b-b879-26f9c3cd3930.jpg": {
-  "creator": "Ma\u0142gorzata Sawicka",
-  "folder": "horse-stable",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=163076314",
-  "query": "horse stable barn",
-  "size": [
-   1747,
-   1246
-  ],
-  "source": "wikimedia",
-  "title": "Stajnie w Dobrocinie"
- },
- "horse-winter/0f75a2ca-47eb-47dc-8dd4-b42b5cf523b2.jpg": {
-  "creator": "Smithsonian Institute",
-  "folder": "horse-winter",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=87595817",
-  "query": "horse winter snow",
-  "size": [
-   1500,
-   1125
-  ],
-  "source": "wikimedia",
-  "title": "Ford Model-T with snowmobile attachment"
- },
- "horse-winter/2d347ba2-892d-4304-9931-2710b1ea5e27.jpg": {
-  "creator": "Tomwsulcer",
-  "folder": "horse-winter",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=31034732",
-  "query": "horse winter snow",
-  "size": [
-   1800,
-   1373
-  ],
-  "source": "wikimedia",
-  "title": "Summit New Jersey horse trough and buildings and trees after snow"
- },
  "horse-winter/6636f908-8826-4f06-97de-4651e3792444.jpg": {
+  "approved": true,
   "creator": "lydia harper",
   "folder": "horse-winter",
   "license": "cc0",
@@ -868,6 +390,7 @@
   "title": "Horse Animal"
  },
  "horse-winter/66706c19-91e7-4f9f-9761-a66809314462.jpg": {
+  "approved": true,
   "creator": "U.S. Forest Service (source)",
   "folder": "horse-winter",
   "license": "cc0",
@@ -881,49 +404,8 @@
   "source": "rawpixel",
   "title": "Horseback riding on public lands"
  },
- "horse-winter/7aff6d5e-69a4-4cac-8f37-ea29bc7780c2.jpg": {
-  "creator": null,
-  "folder": "horse-winter",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/14000700/image-horse-cartoon-person",
-  "query": "horse winter snow",
-  "size": [
-   988,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "People collecting wood snow; representing"
- },
- "horse-winter/9e65bc64-c350-4987-aa3e-be38d8a8c434.jpg": {
-  "creator": null,
-  "folder": "horse-winter",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6683583/png-sticker-vintage",
-  "query": "horse winter snow",
-  "size": [
-   1300,
-   1300
-  ],
-  "source": "rawpixel",
-  "title": "Winter sleigh ride png sticker"
- },
- "horse-winter/a2cd503c-0b2f-4afb-ab8a-4c990fd10467.jpg": {
-  "creator": null,
-  "folder": "horse-winter",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://www.rawpixel.com/image/6683598/vector-vintage-public-domain-illustrations",
-  "query": "horse winter snow",
-  "size": [
-   1024,
-   1024
-  ],
-  "source": "rawpixel",
-  "title": "Winter sleigh ride clipart, vintage"
- },
  "horse-winter/e5b37dda-ee77-427f-9179-c8b3a906058f.jpg": {
+  "approved": true,
   "creator": "shirishpoudel07",
   "folder": "horse-winter",
   "license": "cc0",
@@ -938,6 +420,7 @@
   "title": "Horses standing outside a stone teahouse decorated with prayer flags with snow covered Himalayan peaks shrouded in clouds behind them."
  },
  "horse-winter/f6a4c3d2-0916-4f58-a369-f984d0f9acd1.jpg": {
+  "approved": true,
   "creator": "U.S. Forest Service (source)",
   "folder": "horse-winter",
   "license": "cc0",
@@ -952,6 +435,7 @@
   "title": "Winter at Payette National Forest"
  },
  "puppy/138cdeaa-bd47-4984-a59f-b88eedb009f1.jpg": {
+  "approved": true,
   "creator": "Vlaaitje",
   "folder": "puppy",
   "license": "cc0",
@@ -965,21 +449,8 @@
   "source": "wikimedia",
   "title": "Rottweiler puppy -21603071920"
  },
- "puppy/5aa6e906-0051-47a8-bc0a-e69e5b59519f.jpg": {
-  "creator": "Zarateman",
-  "folder": "puppy",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=38920470",
-  "query": "puppy",
-  "size": [
-   1350,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Bilbao - Guggenheim, 'Puppy' (Jeff Koons) 3"
- },
  "puppy/648f9c36-b812-4e23-83e9-6cc899f32479.jpg": {
+  "approved": true,
   "creator": "Huoadg5888Minor edits made by Subsidiary account",
   "folder": "puppy",
   "license": "cc0",
@@ -993,21 +464,8 @@
   "source": "wikimedia",
   "title": "Fawn and white Welsh Corgi puppy standing on rear legs and sticking out the tongue"
  },
- "puppy/6822aded-e985-407c-a08f-0f91d4735c62.jpg": {
-  "creator": "Johan Spaedtke",
-  "folder": "puppy",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=26954945",
-  "query": "puppy",
-  "size": [
-   1800,
-   1314
-  ],
-  "source": "wikimedia",
-  "title": "Cuon alpinus alpinus puppy"
- },
  "puppy/88ce7844-3d01-4b70-bd5b-3c2969db67ee.jpg": {
+  "approved": true,
   "creator": "Olga Fu\u010d\u00edkov\u00e1",
   "folder": "puppy",
   "license": "cc0",
@@ -1020,19 +478,5 @@
   ],
   "source": "wikimedia",
   "title": "Staffordshire-bull-terrier-puppy-fawn-2166763"
- },
- "puppy/af2f146c-5c31-43c3-a974-b9df3ec6d1a1.jpg": {
-  "creator": "DmytroKaliuzhnyi",
-  "folder": "puppy",
-  "license": "cc0",
-  "license_version": "1.0",
-  "page": "https://commons.wikimedia.org/w/index.php?curid=180671651",
-  "query": "puppy",
-  "size": [
-   1001,
-   1800
-  ],
-  "source": "wikimedia",
-  "title": "Gay Puppy play"
  }
 }
