@@ -1,3 +1,4 @@
 2026-W46_hand.mp4 <- https://videos.pexels.com/video-files/7880872/7880872-hd_1080_1920_24fps.mp4
 2026-W46_rain-paddock.mp4 <- https://videos.pexels.com/video-files/28974975/12534338_1080_1920_50fps.mp4
 2026-W46_coat.mp4 <- https://videos.pexels.com/video-files/35820728/15188011_1080_1920_30fps.mp4
+2026-W46_blanket.mp4 <- https://videos.pexels.com/video-files/19843014/19843014-hd_720_1280_60fps.mp4
