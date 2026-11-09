@@ -1,0 +1,9 @@
+{"label": "Winter care", "slides": [
+ {"type": "cover", "photo": "horse-winter/6636f908-8826-4f06-97de-4651e3792444.jpg", "focus": 0.3, "title": "Winter yard check", "sub": "5 things to look at this week"},
+ {"type": "point", "photo": "horse-winter/e5b37dda-ee77-427f-9179-c8b3a906058f.jpg", "focus": 0.55, "title": "Heels and legs", "body": "After muddy days, check heels and pasterns for scabs or heat."},
+ {"type": "point", "photo": "horse-winter/f6a4c3d2-0916-4f58-a369-f984d0f9acd1.jpg", "title": "Water", "body": "Break the ice every morning and evening. Cold water means less drinking."},
+ {"type": "point", "photo": "horse-stable/e4602385-09be-4c59-ae7f-831a2f3fccee.jpg", "focus": 0.35, "title": "Rugs", "body": "Slide a hand under the rug at the withers. Warm and dry is right. Sweaty means too heavy."},
+ {"type": "point", "photo": "horse-hay/52467619-9b51-4691-abad-cd0416978b0c.jpg", "title": "Hay", "body": "Extra forage helps keep them warm from the inside."},
+ {"type": "point", "photo": "horse-field/61c2443c-67a6-4ddb-86d4-7126d57d1547.jpg", "title": "Feet", "body": "Pick out feet daily. Packed mud and stones hide problems."},
+ {"type": "end", "title": "Save this for your next yard visit", "question": "What's on your winter checklist?"}
+]}
