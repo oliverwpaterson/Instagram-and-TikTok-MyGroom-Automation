@@ -1,11 +1,13 @@
-name: Fetch voiceover
-# Copies a finished vidIQ (ElevenLabs) voiceover MP3 into voice/ so the reel builder can use it.
-# Run by hand or via gh api .../dispatches. Only assets.vidiq.com URLs are accepted.
+name: Fetch media
+# Copies a finished vidIQ (ElevenLabs) voiceover MP3 into voice/, or a free Pexels stock clip into broll/,
+# so the reel builder can use them. Run by hand or via gh api .../dispatches.
+# Allowed: https://assets.vidiq.com/...mp3, https://videos.pexels.com/video-files/...mp4,
+# or a https://www.pexels.com/video/... page (the best 1080x1920 file on it is picked).
 on:
   workflow_dispatch:
     inputs:
       url:
-        description: "vidIQ voiceover MP3 URL (https://assets.vidiq.com/...)"
+        description: "vidIQ MP3 URL, Pexels MP4 URL or Pexels video page"
         required: true
       name:
         description: "File name to save as, e.g. 2026-W46_rug-decision.mp3"
@@ -26,19 +28,31 @@ jobs:
           URL: ${{ inputs.url }}
           NAME: ${{ inputs.name }}
         run: |
-          case "$URL" in https://assets.vidiq.com/*.mp3) ;; *) echo "URL not allowed"; exit 1;; esac
           case "$NAME" in *[!A-Za-z0-9._-]*|"") echo "Bad name"; exit 1;; esac
-          mkdir -p voice
-          curl -sSfL --max-filesize 20000000 -o "voice/$NAME" "$URL"
-          file "voice/$NAME" | grep -qiE "audio|mpeg" || { echo "Not audio"; exit 1; }
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
+          case "$URL" in
+            https://assets.vidiq.com/*.mp3) DIR=voice ;;
+            https://videos.pexels.com/video-files/*.mp4) DIR=broll ;;
+            https://www.pexels.com/video/*)
+              DIR=broll
+              PAGE=$(curl -sSL -A "$UA" "$URL" || true)
+              BEST=$(echo "$PAGE" | grep -oE 'https://videos\.pexels\.com/video-files/[0-9]+/[A-Za-z0-9_-]+\.mp4' | sort -u | grep -E '1080_1920|1440_2560|2160_3840' | sort -t_ -k2 -n | head -1)
+              if [ -z "$BEST" ]; then echo "No HD file found on page"; exit 1; fi
+              echo "Picked $BEST"; URL="$BEST" ;;
+            *) echo "URL not allowed"; exit 1 ;;
+          esac
+          mkdir -p "$DIR"
+          curl -sSfL -A "$UA" --max-filesize 80000000 -o "$DIR/$NAME" "$URL"
+          file "$DIR/$NAME" | grep -qiE "audio|mpeg|mp4|iso media" || { echo "Not media"; file "$DIR/$NAME"; exit 1; }
+          echo "$NAME <- $URL" >> "$DIR/SOURCES.txt"
       - name: Commit
         env:
           NAME: ${{ inputs.name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add voice
+          git add voice broll 2>/dev/null || true
           if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
-          git commit -m "Add voiceover $NAME"
+          git commit -m "Add media $NAME"
           git pull --rebase origin main
           git push origin main
