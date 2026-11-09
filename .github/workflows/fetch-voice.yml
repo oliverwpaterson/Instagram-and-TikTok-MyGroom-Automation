@@ -32,7 +32,18 @@ jobs:
           UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
           case "$URL" in
             https://assets.vidiq.com/*.mp3) DIR=voice ;;
-            https://videos.pexels.com/video-files/*.mp4) DIR=broll ;;
+            https://videos.pexels.com/video-files/*.mp4)
+              DIR=broll
+              # Low-res link (..._360_640_<fps>fps.mp4)? Look for the HD rendition next to it.
+              if echo "$URL" | grep -qE '/[0-9]+_360_640_[0-9]+fps\.mp4$'; then
+                BASE=${URL%/*}; F=${URL##*/}; FID=${F%%_*}; FPS=${F##*_}
+                for size in 1080_1920 720_1280; do
+                  for n in $(seq 0 12); do
+                    C="$BASE/$((FID + n))_${size}_${FPS}"
+                    if curl -sfI -A "$UA" "$C" >/dev/null; then URL="$C"; echo "Upgraded to $C"; break 2; fi
+                  done
+                done
+              fi ;;
             https://www.pexels.com/video/*)
               DIR=broll
               PAGE=$(curl -sSL -A "$UA" "$URL" || true)
