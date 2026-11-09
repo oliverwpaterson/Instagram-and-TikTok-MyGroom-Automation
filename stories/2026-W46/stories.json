@@ -1,7 +1,60 @@
-{"stories": [
- {"type": "question", "photo": "horse-portrait/28719819-5eb9-4c6e-be43-9598c2f7c445.jpg", "focus": 0.35, "focus_x": 0.12,
-  "kicker": "Be honest", "question": "How many rugs does your horse own?", "sticker": "poll"},
- {"type": "app", "screen": "rug-advisor", "title": "Which rug tonight?", "body": "The Rug Advisor checks your local weather and clip, then suggests a day and night rug."},
- {"type": "tip", "photo": "dog-winter/d62a519d-8655-4ca0-8bda-7de30ae076c2.jpg", "focus": 0.45, "label": "Wet walk tip",
-  "title": "Wipe those paws", "body": "After walks on gritted roads, wipe paws and between the pads. Grit can irritate and be licked off."}
-]}
+{
+ "stories": [
+  {
+   "type": "question",
+   "photo": "horse-portrait/28719819-5eb9-4c6e-be43-9598c2f7c445.jpg",
+   "focus": 0.35,
+   "focus_x": 0.12,
+   "kicker": "Be honest",
+   "question": "How many rugs does your horse own?",
+   "sticker": "poll"
+  },
+  {
+   "type": "app",
+   "screen": "rug-advisor",
+   "title": "Which rug tonight?",
+   "body": "The Rug Advisor checks your local weather and clip, then suggests a day and night rug."
+  },
+  {
+   "type": "tip",
+   "photo": "dog-winter/d62a519d-8655-4ca0-8bda-7de30ae076c2.jpg",
+   "focus": 0.45,
+   "label": "Wet walk tip",
+   "title": "Wipe those paws",
+   "body": "After walks on gritted roads, wipe paws and between the pads. Grit can irritate and be licked off."
+  },
+  {
+   "type": "question",
+   "photo": "cat-winter/d5366f0a-34c1-406a-86a1-8d5b4ff6e196.jpg",
+   "focus": 0.4,
+   "focus_x": 0.55,
+   "kicker": "Rate it",
+   "question": "How much does your cat love the radiator right now?",
+   "sticker": "slider"
+  },
+  {
+   "type": "tip",
+   "photo": "horse-field/5210b744-ab2a-4202-b837-721acfeb454e.jpg",
+   "focus": 0.3,
+   "focus_x": 0.5,
+   "label": "From today's post",
+   "title": "Break the ice twice",
+   "body": "Check troughs morning and evening. Cold water means less drinking. Swipe today's post for the full yard check."
+  },
+  {
+   "type": "question",
+   "photo": "dog-winter/d62a519d-8655-4ca0-8bda-7de30ae076c2.jpg",
+   "focus": 0.3,
+   "focus_x": 0.42,
+   "kicker": "Share your wisdom",
+   "question": "What's your best trick for muddy dog walks?",
+   "sticker": "question"
+  },
+  {
+   "type": "app",
+   "screen": "health-care",
+   "title": "Lost track of the farrier?",
+   "body": "See farrier, vet and vaccination dates, and what's due next, in one place."
+  }
+ ]
+}
