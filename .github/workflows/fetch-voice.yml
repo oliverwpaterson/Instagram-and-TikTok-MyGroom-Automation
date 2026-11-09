@@ -1,0 +1,44 @@
+name: Fetch voiceover
+# Copies a finished vidIQ (ElevenLabs) voiceover MP3 into voice/ so the reel builder can use it.
+# Run by hand or via gh api .../dispatches. Only assets.vidiq.com URLs are accepted.
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "vidIQ voiceover MP3 URL (https://assets.vidiq.com/...)"
+        required: true
+      name:
+        description: "File name to save as, e.g. 2026-W46_rug-decision.mp3"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: fetch-voice
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download
+        env:
+          URL: ${{ inputs.url }}
+          NAME: ${{ inputs.name }}
+        run: |
+          case "$URL" in https://assets.vidiq.com/*.mp3) ;; *) echo "URL not allowed"; exit 1;; esac
+          case "$NAME" in *[!A-Za-z0-9._-]*|"") echo "Bad name"; exit 1;; esac
+          mkdir -p voice
+          curl -sSfL --max-filesize 20000000 -o "voice/$NAME" "$URL"
+          file "voice/$NAME" | grep -qiE "audio|mpeg" || { echo "Not audio"; exit 1; }
+      - name: Commit
+        env:
+          NAME: ${{ inputs.name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add voice
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -m "Add voiceover $NAME"
+          git pull --rebase origin main
+          git push origin main
