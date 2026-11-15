@@ -1,0 +1,4 @@
+{"stories": [
+ {"type": "tip", "photo": "puppy/648f9c36-b812-4e23-83e9-6cc899f32479.jpg", "focus": 0.3, "focus_x": 0.5, "label": "POV", "title": "The vet asks how much he weighs", "body": "Me: about one dog's worth?"},
+ {"type": "app", "screen": "weight", "title": "Weigh-ins, logged", "body": "Track weight and body condition scores over time."}
+]}
