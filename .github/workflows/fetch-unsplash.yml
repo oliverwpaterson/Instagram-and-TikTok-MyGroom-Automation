@@ -1,0 +1,42 @@
+name: Fetch Unsplash photos
+# Copies Unsplash photos (free Unsplash License) into photos/incoming/unsplash/ for review.
+# Input: semicolon-separated "name|url" pairs, url must start https://images.unsplash.com/photo-
+on:
+  workflow_dispatch:
+    inputs:
+      items:
+        description: "name|url;name|url ..."
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: fetch-unsplash
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download
+        env:
+          ITEMS: ${{ inputs.items }}
+        run: |
+          mkdir -p photos/incoming/unsplash
+          IFS=';' read -ra PAIRS <<< "$ITEMS"
+          for p in "${PAIRS[@]}"; do
+            NAME="${p%%|*}"; URL="${p#*|}"
+            case "$NAME" in *[!A-Za-z0-9._-]*|"") echo "Bad name $NAME"; exit 1;; esac
+            case "$URL" in https://images.unsplash.com/photo-*) ;; *) echo "URL not allowed"; exit 1;; esac
+            curl -sSfL --max-filesize 30000000 -o "photos/incoming/unsplash/$NAME.jpg" "$URL&w=1800"
+            file "photos/incoming/unsplash/$NAME.jpg" | grep -qi jpeg || { echo "Not a JPEG"; exit 1; }
+          done
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add photos/incoming/unsplash
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit -m "Add Unsplash photos for review"
+          git pull --rebase origin main
+          git push origin main
