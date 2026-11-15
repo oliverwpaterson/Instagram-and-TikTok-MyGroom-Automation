@@ -13,7 +13,8 @@
    "focus_x": 0.4,
    "kicker": "Forgot a jab date?",
    "question": "Has this ever happened to you?",
-   "sticker": "poll"
+   "sticker": "poll",
+   "tiktok_prompt": "Comment: Yes, or Too many times"
   },
   {
    "type": "tip",
@@ -31,7 +32,8 @@
    "focus_x": 0.5,
    "kicker": "Rate yourself",
    "question": "How on top of due dates are you?",
-   "sticker": "slider"
+   "sticker": "slider",
+   "tiktok_prompt": "Score yourself out of 10 in the comments"
   },
   {
    "type": "tip",
@@ -49,7 +51,8 @@
    "focus_x": 0.6,
    "kicker": "Share your wisdom",
    "question": "How do you remember all the due dates?",
-   "sticker": "question"
+   "sticker": "question",
+   "tiktok_prompt": "Tell us your trick in the comments"
   },
   {
    "type": "app",
