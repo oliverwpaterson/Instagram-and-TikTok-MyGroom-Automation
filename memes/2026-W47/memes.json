@@ -1,0 +1,66 @@
+{
+ "memes": [
+  {
+   "name": "farrier-hour",
+   "photo": "farrier/farrier-4VWoFIHnlLc.jpg",
+   "focus": 0.45,
+   "focus_x": 0.5,
+   "top": "When the farrier texts 'here in an hour'",
+   "bottom": "And your pony's in the furthest field",
+   "sticker": "Face screaming in fear",
+   "sticker_pos": "right"
+  },
+  {
+   "name": "pony-club-passport",
+   "photo": "horse-portrait/28719819-5eb9-4c6e-be43-9598c2f7c445.jpg",
+   "focus": 0.35,
+   "focus_x": 0.15,
+   "top": "Pony Club: can we see the passport?",
+   "bottom": "Me, remembering the flu jab was due in October",
+   "sticker": "Grimacing face",
+   "sticker_pos": "right"
+  },
+  {
+   "name": "rug-weather",
+   "photo": "horse-rug/rug-I_1odt9Ej_Y.jpg",
+   "focus": 0.4,
+   "focus_x": 0.5,
+   "top": "Me at 6am: heavyweight, obviously",
+   "bottom": "The weather by lunchtime: 14 degrees",
+   "sticker": "Hot face",
+   "sticker_pos": "left"
+  },
+  {
+   "name": "dog-booster",
+   "photo": "dog-face/dog-uKtvYMGe8ls.jpg",
+   "focus": 0.35,
+   "focus_x": 0.5,
+   "top": "The kennels: is his booster up to date?",
+   "bottom": "Me: define 'up to date'",
+   "sticker": "Thinking face",
+   "sticker_pos": "right",
+   "sticker_y": 0.31
+  },
+  {
+   "name": "cat-wormed",
+   "photo": "cat-face/cat-p1d17qncJI4.jpg",
+   "focus": 0.3,
+   "focus_x": 0.5,
+   "top": "Vet: when was she last wormed?",
+   "bottom": "Me: recently. The cat:",
+   "sticker": "Face with raised eyebrow",
+   "sticker_pos": "right",
+   "sticker_y": 0.68
+  },
+  {
+   "name": "farrier-six-weeks",
+   "photo": "farrier/farrier-4FzW71bA4oY.jpg",
+   "focus": 0.3,
+   "focus_x": 0.5,
+   "top": "Farrier: see you in six weeks",
+   "bottom": "Me, nine weeks later: wait, when was he last here?",
+   "sticker": "Face with spiral eyes",
+   "sticker_pos": "left"
+  }
+ ]
+}

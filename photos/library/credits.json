@@ -1,4 +1,19 @@
 {
+ "cat-face/cat-p1d17qncJI4.jpg": {
+  "approved": true,
+  "creator": "Bodega",
+  "folder": "cat-face",
+  "license": "unsplash",
+  "license_version": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-grumpy-looking-tabby-cat-with-yellow-eyes-p1d17qncJI4",
+  "query": "cat-face",
+  "size": [
+   1800,
+   2295
+  ],
+  "source": "unsplash",
+  "title": "A grumpy-looking tabby cat with yellow eyes"
+ },
  "cat-winter/6a3a0263-89e0-4eb6-827a-37d4c33c29c6.jpg": {
   "approved": true,
   "creator": "Hermann Luyken",
@@ -59,6 +74,21 @@
   "source": "wikimedia",
   "title": "F2 Savannah Cat (portrait)"
  },
+ "dog-face/dog-uKtvYMGe8ls.jpg": {
+  "approved": true,
+  "creator": "Ryan Walton",
+  "folder": "dog-face",
+  "license": "unsplash",
+  "license_version": "Unsplash License",
+  "page": "https://unsplash.com/photos/selective-focus-photography-of-dog-lying-on-ground-uKtvYMGe8ls",
+  "query": "dog-face",
+  "size": [
+   1800,
+   2700
+  ],
+  "source": "unsplash",
+  "title": "Dog resting its chin, looking up"
+ },
  "dog-walk/8da705b6-e419-48b7-8fe8-0fd872195728.jpg": {
   "approved": true,
   "creator": "Matt Bango",
@@ -118,6 +148,36 @@
   ],
   "source": "wikimedia",
   "title": "Dog in snow jacket"
+ },
+ "farrier/farrier-4FzW71bA4oY.jpg": {
+  "approved": true,
+  "creator": "roselino rocha",
+  "folder": "farrier",
+  "license": "unsplash",
+  "license_version": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-man-trims-a-white-horses-hoof-with-tools-4FzW71bA4oY",
+  "query": "farrier",
+  "size": [
+   1800,
+   2700
+  ],
+  "source": "unsplash",
+  "title": "A man trims a white horse's hoof with tools"
+ },
+ "farrier/farrier-4VWoFIHnlLc.jpg": {
+  "approved": true,
+  "creator": "Vin\u00edcius Costa",
+  "folder": "farrier",
+  "license": "unsplash",
+  "license_version": "Unsplash License",
+  "page": "https://unsplash.com/photos/farrier-working-on-a-horses-hoof-outdoors-4VWoFIHnlLc",
+  "query": "farrier",
+  "size": [
+   1800,
+   2700
+  ],
+  "source": "unsplash",
+  "title": "Farrier working on a horse's hoof outdoors"
  },
  "horse-field/47840dba-00c9-4c36-ae06-5fc60382737c.jpg": {
   "approved": true,
@@ -298,6 +358,36 @@
   ],
   "source": "rawpixel",
   "title": null
+ },
+ "horse-rug/rug-I_1odt9Ej_Y.jpg": {
+  "approved": true,
+  "creator": "chris robert",
+  "folder": "horse-rug",
+  "license": "unsplash",
+  "license_version": "Unsplash License",
+  "page": "https://unsplash.com/photos/brown-horse-in-gray-jacket-I_1odt9Ej_Y",
+  "query": "horse-rug",
+  "size": [
+   1800,
+   1200
+  ],
+  "source": "unsplash",
+  "title": "Brown horse in grey turnout rug"
+ },
+ "horse-rug/rug-N89g-ljbiPA.jpg": {
+  "approved": true,
+  "creator": "Makayla Lowenbach",
+  "folder": "horse-rug",
+  "license": "unsplash",
+  "license_version": "Unsplash License",
+  "page": "https://unsplash.com/photos/a-horse-wearing-a-blanket-in-a-field-N89g-ljbiPA",
+  "query": "horse-rug",
+  "size": [
+   1800,
+   1200
+  ],
+  "source": "unsplash",
+  "title": "A horse wearing a blanket in a field"
  },
  "horse-stable/4a5217b2-2964-447a-89b6-dcc28dc8a629.jpg": {
   "approved": true,
