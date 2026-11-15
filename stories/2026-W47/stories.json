@@ -1,0 +1,61 @@
+{
+ "stories": [
+  {
+   "type": "app",
+   "screen": "health-care",
+   "title": "Jabs all up to date?",
+   "body": "See vaccination, farrier, dentist and physio dates, and what's due next, in one place."
+  },
+  {
+   "type": "question",
+   "photo": "horse-stable/e4602385-09be-4c59-ae7f-831a2f3fccee.jpg",
+   "focus": 0.15,
+   "focus_x": 0.4,
+   "kicker": "Forgot a jab date?",
+   "question": "Has this ever happened to you?",
+   "sticker": "poll"
+  },
+  {
+   "type": "tip",
+   "photo": "dog-winter/9696f929-59d9-4508-81fc-ec3fae278aec.jpg",
+   "focus": 0.35,
+   "focus_x": 0.5,
+   "label": "Kennel tip",
+   "title": "Check before you book",
+   "body": "Kennels usually ask for up-to-date jabs. Check his record before you book."
+  },
+  {
+   "type": "question",
+   "photo": "cat/a350fca7-4405-402b-9e51-fbf2b86a10ce.jpg",
+   "focus": 0.1,
+   "focus_x": 0.5,
+   "kicker": "Rate yourself",
+   "question": "How on top of due dates are you?",
+   "sticker": "slider"
+  },
+  {
+   "type": "tip",
+   "photo": "horse-field/47840dba-00c9-4c36-ae06-5fc60382737c.jpg",
+   "focus": 0.5,
+   "focus_x": 0.6,
+   "label": "From today's post",
+   "title": "Book the next farrier",
+   "body": "Six weeks slips to nine fast. Book the next visit before they leave. Swipe today's post for all six."
+  },
+  {
+   "type": "question",
+   "photo": "dog-walk/8da705b6-e419-48b7-8fe8-0fd872195728.jpg",
+   "focus": 0.3,
+   "focus_x": 0.6,
+   "kicker": "Share your wisdom",
+   "question": "How do you remember all the due dates?",
+   "sticker": "question"
+  },
+  {
+   "type": "app",
+   "screen": "weight",
+   "title": "When was he last weighed?",
+   "body": "Log weigh-ins and body condition scores, and see the history at a glance."
+  }
+ ]
+}
