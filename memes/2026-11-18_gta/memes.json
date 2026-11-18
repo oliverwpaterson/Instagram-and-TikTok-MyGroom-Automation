@@ -1,0 +1,8 @@
+{"memes": [
+ {"name": "grand-theft-hay", "photo": "horse-hay/52467619-9b51-4691-abad-cd0416978b0c.jpg", "focus": 0.5, "focus_x": 0.45,
+  "top": "Everyone: GTA 6 is finally here", "bottom": "My pony: been doing Grand Theft Hay for years",
+  "sticker": "Smirking face", "sticker_pos": "right", "sticker_y": 0.42},
+ {"name": "five-star-wanted", "photo": "horse-stable/e4602385-09be-4c59-ae7f-831a2f3fccee.jpg", "focus": 0.35, "focus_x": 0.5,
+  "top": "Five star wanted level", "bottom": "For opening the feed room door again",
+  "sticker": "Police car light", "sticker_pos": "right", "sticker_y": 0.5}
+]}
