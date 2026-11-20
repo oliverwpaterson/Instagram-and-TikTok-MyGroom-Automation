@@ -153,6 +153,7 @@ def main(cfg_path, out_dir):
         elif s["type"] == "end": im = slide_end(s, i, total, icon)
         else: raise SystemExit(f"unknown slide type {s['type']}")
         p = os.path.join(out_dir, f"{i:02d}.png"); im.save(p, optimize=True); paths.append(p)
+        im.convert("RGB").save(p[:-4] + ".jpg", quality=92, optimize=True)  # TikTok photos reject PNG
     print("\n".join(paths))
 
 if __name__ == "__main__":

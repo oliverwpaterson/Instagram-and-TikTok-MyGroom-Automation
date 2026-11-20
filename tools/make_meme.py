@@ -153,7 +153,9 @@ def main(cfg, out):
     for m in json.load(open(cfg))["memes"]:
         if not APPROVED.get(m["photo"], {}).get("approved"):
             raise SystemExit(f"photo not approved: {m['photo']}")
-        still(m, 1080, 1350).save(os.path.join(out, m["name"] + ".png"), optimize=True)
+        feed = still(m, 1080, 1350)
+        feed.save(os.path.join(out, m["name"] + ".png"), optimize=True)
+        feed.convert("RGB").save(os.path.join(out, m["name"] + ".jpg"), quality=92, optimize=True)  # TikTok photos reject PNG
         still(m, 1080, 1920).save(os.path.join(out, m["name"] + "_story.png"), optimize=True)
         if m.get("animated", True):
             animated(m, os.path.join(out, m["name"] + ".mp4"))

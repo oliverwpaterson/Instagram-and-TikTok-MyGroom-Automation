@@ -74,4 +74,5 @@ for i, (photo, fx, fy, lines, ty) in enumerate(SLIDES, 1):
             text_line(im, l, W / 2, y, size); y += int(size * 1.35)
         if i in (1, len(SLIDES)) : badge(im)
         im.save(os.path.join(OUT, f"{tag}-{i:02d}.png"), optimize=True)
+        im.convert("RGB").save(os.path.join(OUT, f"{tag}-{i:02d}.jpg"), quality=92, optimize=True)  # TikTok photos reject PNG
 print("ok")
