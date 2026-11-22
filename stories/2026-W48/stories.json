@@ -1,0 +1,61 @@
+{
+ "stories": [
+  {
+   "type": "app",
+   "screen": "supplements",
+   "title": "Down to the last scoop?",
+   "body": "See how many days are left in each feed and supplement tub."
+  },
+  {
+   "type": "question",
+   "photo": "horse-portrait/28719819-5eb9-4c6e-be43-9598c2f7c445.jpg",
+   "focus": 0.9,
+   "focus_x": 0.15,
+   "kicker": "Be honest",
+   "question": "Ever run out of hay mid-winter?",
+   "sticker": "poll",
+   "tiktok_prompt": "Comment: Yes, or Too many times"
+  },
+  {
+   "type": "tip",
+   "photo": "cat-winter/c5a73bfa-d60b-44a7-b79e-4724ff275a43.jpg",
+   "focus": 0.4,
+   "focus_x": 0.5,
+   "label": "Cat care tip",
+   "title": "Note it the day you do it",
+   "body": "Note flea and worming dates the day you treat. Ask your vet how often."
+  },
+  {
+   "type": "question",
+   "photo": "puppy/138cdeaa-bd47-4984-a59f-b88eedb009f1.jpg",
+   "focus": 0.2,
+   "focus_x": 0.5,
+   "kicker": "Rate yourself",
+   "question": "How on top of your pet admin are you?",
+   "sticker": "slider",
+   "tiktok_prompt": "Score yourself out of 10 in the comments"
+  },
+  {
+   "type": "app",
+   "screen": "hay-haylage",
+   "title": "Running low on hay?",
+   "body": "From today's post: work out how long your hay or haylage will last."
+  },
+  {
+   "type": "question",
+   "photo": "horse-stable/4c0f5587-cd29-4004-b98b-0994767b6a83.jpg",
+   "focus": 0.4,
+   "focus_x": 0.5,
+   "kicker": "Share your wisdom",
+   "question": "What's your best trick for remembering dates?",
+   "sticker": "question",
+   "tiktok_prompt": "Tell us your trick in the comments"
+  },
+  {
+   "type": "app",
+   "screen": "money",
+   "title": "Spent how much this year?",
+   "body": "See each animal's total logged spend, from farrier to vaccinations."
+  }
+ ]
+}

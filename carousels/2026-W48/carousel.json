@@ -1,0 +1,8 @@
+{"label": "Has this happened to you?", "slides": [
+ {"type": "cover", "photo": "horse-winter/6636f908-8826-4f06-97de-4651e3792444.jpg", "focus": 0.3, "title": "Has this ever happened?", "sub": "Winter yard edition: 4 things that catch owners out"},
+ {"type": "point", "photo": "horse-hay/52467619-9b51-4691-abad-cd0416978b0c.jpg", "focus": 0.4, "title": "Hay runs low in January", "body": "Count bales against the weeks left, not by eye. A hay calculator takes out the guesswork."},
+ {"type": "point", "photo": "horse-rug/rug-N89g-ljbiPA.jpg", "focus": 0.3, "title": "The wrong rug overnight", "body": "Mild night, heavy rug, sweaty horse. Check the night forecast and feel behind the withers."},
+ {"type": "point", "photo": "horse-stable/e4602385-09be-4c59-ae7f-831a2f3fccee.jpg", "focus": 0.15, "title": "The dentist is overdue", "body": "Most horses need a check at least once a year. Dropping feed? Call your vet or EDT."},
+ {"type": "point", "photo": "horse-field/47840dba-00c9-4c36-ae06-5fc60382737c.jpg", "focus": 0.55, "title": "The vet bill shock", "body": "Horse Math: one call-out, one jab, one quick look. Logging costs shows the real total."},
+ {"type": "end", "title": "Save this for the next cold snap", "question": "Which one gets you every winter?"}
+]}
