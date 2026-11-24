@@ -46,3 +46,15 @@ Several features came straight from user feedback, which is worth saying ("you a
 
 ## No screenshots yet
 tools/screens/ has no screenshots of the new features (reminder settings, Rug Advisor breakdown, training goals, shopping list, other animals). Until the owner adds them, mention these features in voiceover, captions and text scenes only. Never mock up or invent an app screen.
+
+## Monthly prize draw (the "raffle") — facts for the monthly reminder post
+Source: mygroom.co.uk/terms (section 6), mygroom.co.uk/pricing and the app's Upgrade screen, checked 24 Nov 2026. The owner asked on 24 Nov 2026 for one post a month reminding free accounts to enter and Pro accounts that they're entered automatically.
+- Each calendar month MyGroom draws one winner at random and buys them something from their own supplement list in the app.
+- **Pro accounts are entered automatically every month**, no action needed.
+- **Free accounts enter for free in the app**: open Upgrade (from Profile or the Home rug card) and tap "Enter free" under "Prefer not to subscribe?". One free entry per person per calendar month, so free users need to enter again each month.
+- **No purchase necessary. Every entrant, free or Pro, has exactly the same odds.** Never imply that paying improves the chances, or that you must subscribe to win.
+- To be eligible you must have **at least one supplement logged** in the app (the prize is chosen from your own list). This applies to free and Pro entries alike.
+- The winner is notified by the email on their account. MyGroom may end or change the promotion at any time, with notice in the app.
+- Call it the "monthly prize draw" in posts (the word the app and terms use), not "raffle" or "lottery".
+- Every draw post must state the significant conditions (UK ASA/CAP rules for prize promotions): how to enter (free in the app, or automatic with Pro), no purchase necessary and equal odds, the prize (something from your own supplement list), eligibility (at least one supplement logged), that entries are per calendar month (closing at the end of the month), and "Full terms: mygroom.co.uk/terms". Add "This draw is run by MyGroom and isn't sponsored, endorsed or administered by Instagram, TikTok or Apple."
+- Never name or picture a winner unless the owner supplies the name and confirms the winner agreed.
