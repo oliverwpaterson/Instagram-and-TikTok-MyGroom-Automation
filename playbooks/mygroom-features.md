@@ -3,7 +3,7 @@
 Source: the owner's "MyGroom November 2026 Release Notes" (https://claude.ai/artifact/MWcGLcWbPoRcWtSndTfNSB), built from the code merged to main between 1 and 22 November 2026. The owner said on 23 Nov 2026 that these are now features we can talk about. Only claim what is listed here or shown on a real screenshot in tools/screens/. Never invent features, timings or numbers.
 
 ## iPhone availability (check this line every run)
-**IPHONE 1.2 UPDATE: PENDING** (the owner changes this to LIVE once the update is on the App Store; he expects it within a few days of 23 Nov)
+**IPHONE 1.2 UPDATE: LIVE** (the owner confirmed on 24 Nov 2026 that the update was approved on the App Store)
 - While it says PENDING: the November features are on the MyGroom web app now. When a post is mainly about a November feature, say "on the MyGroom web app now, and coming to iPhone in the next update", or keep it general ("MyGroom can now..."). Don't say "update your iPhone app". **Don't post the 10-languages announcement yet.**
 - Once it says LIVE: say "on iPhone and web", and the languages announcement can go out (social highlights #2 below).
 
