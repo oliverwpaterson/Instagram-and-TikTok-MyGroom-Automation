@@ -31,5 +31,6 @@ The owner asked on 25 Nov 2026 to use Trial Reels. Every week: two extra Instagr
 
 | Posted | Reel | Type | Compared with | Result | Verdict |
 |---|---|---|---|---|---|
+| Wed 25 Nov ~22:15 | W48 reel B with a "POV: the vet asks when she was last flea treated" hook (vs main reel's "Be honest. Flea treatment: this month or last?") | Hook test | W48 reel B (Thu 26 Nov) + IG reel median | | |
 | Fri 27 Nov 18:00 | W47 reel B "Christmas kennels booked early. Smug." (dog, never posted) | Reach | IG reel median | | |
 | Sat 28 Nov 18:00 | W47 reel A "Rally day... flu jab out of date" (horse, never posted) | Reach | IG reel median | | |
