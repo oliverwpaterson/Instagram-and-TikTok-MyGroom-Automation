@@ -33,5 +33,8 @@ The owner asked on 25 Nov 2026 to use Trial Reels. Every week: two extra Instagr
 |---|---|---|---|---|---|
 | Wed 25 Nov 22:10 (published https://www.instagram.com/reel/DgLkjfluYoW/) | W48 reel B with a "POV: the vet asks when she was last flea treated" hook (vs main reel's "Be honest. Flea treatment: this month or last?") | Hook test | W48 reel B (Thu 26 Nov) + IG reel median | | |
 | Wed 25 Nov 22:30 | W48 reel A with a "Be honest. How many scoops are left in the tub?" hook (vs main reel's "When it's Sunday night and that's the last scoop") | Hook test | W48 reel A (published 25 Nov) + IG reel median | | |
+| Thu 26 Nov 07:30 | W48 reel C with "Be honest. When's your horsebox MOT due?" hook (vs "POV: it's show week...") | Hook test | W48 reel C + IG reel median | | |
+| Thu 26 Nov 12:00 | NEW "Me at 6am, staring at four rugs like it's a quiz" + Rug Advisor screen (horse) | Reach / new angle | IG reel median | | |
+| Thu 26 Nov 20:30 | NEW 12 s dark dog walk ("Head torch: on. Dignity: gone.") | Length test (short) | IG reel median, 17-20 s reels | | |
 | Fri 27 Nov 18:00 | W47 reel B "Christmas kennels booked early. Smug." (dog, never posted) | Reach | IG reel median | | |
 | Sat 28 Nov 18:00 | W47 reel A "Rally day... flu jab out of date" (horse, never posted) | Reach | IG reel median | | |
