@@ -10,7 +10,7 @@ How to judge (next Sunday's run):
 - **Unclear** = re-run once with a different topic.
 
 ## Backlog (ideas to try, roughly in order)
-1. **Instagram Trial Reel**: post one reel as a Trial Reel (shown to non-followers first) to test a new hook style without risking the main feed. Metricool supports `TRIAL_REEL`.
+1. **Instagram Trial Reel with a new hook style** (on top of the two standing weekly trial reels below): e.g. a 7–10 s loop or a third-person "she…" line as a Trial Reel. Metricool supports `TRIAL_REEL`.
 2. **Aesthetic "she…" photo carousel (TikTok)**: 6–8 striking photos, one third-person line each ("she books the farrier before he's left the yard"), soft MyGroom mention at the end, #pinterestaesthetic. Inspired by @mkequest.
 3. **App routine video**: one animal's routine through real screenshots, like "Bo's whole care routine at a glance" (6,979 TikTok views, never repeated).
 4. **7–10 second looping reel**: one relatable line over a single still, music only, no voiceover.
@@ -25,3 +25,11 @@ How to judge (next Sunday's run):
 | Week | Experiment | Network | Hypothesis | Result | Verdict |
 |---|---|---|---|---|---|
 | (first one from the 29 Nov 2026 run) | | | | | |
+
+## Instagram Trial Reels (standing, from 25 Nov 2026)
+The owner asked on 25 Nov 2026 to use Trial Reels. Every week: two extra Instagram Trial Reels (shown to non-followers first). Trial 1 = one of that week's reels re-rendered with a different hook (hook test). Trial 2 = a finished reel that never went out on Instagram, or a strong past reel that's still seasonal (reach test; not the same reel twice within 8 weeks). Judge each against the Instagram reel median (~138 views, skip ~42%) and, for hook tests, against the main reel it was paired with. A hook that clearly wins (about 1.5x views or 10+ points lower skip) is used for the next week's main reels.
+
+| Posted | Reel | Type | Compared with | Result | Verdict |
+|---|---|---|---|---|---|
+| Fri 27 Nov 18:00 | W47 reel B "Christmas kennels booked early. Smug." (dog, never posted) | Reach | IG reel median | | |
+| Sat 28 Nov 18:00 | W47 reel A "Rally day... flu jab out of date" (horse, never posted) | Reach | IG reel median | | |
