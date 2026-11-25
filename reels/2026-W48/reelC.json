@@ -1,0 +1,6 @@
+{"tag": "has this happened?", "voice": "bf_lily", "scenes": [
+ [2.8, "hook", ["POV: it's", "show week.", "And the MOT", "ran out."], {"img": "lorry", "vo": "It's show week... and the horsebox MOT's just run out.", "speed": 1.0}],
+ [2.8, "hook", ["Plaits: done.", "Tack: clean.", "Lorry: going", "nowhere."], {"img": "horse", "vo": "Plaits done, tack clean... and the lorry's going nowhere.", "speed": 1.0}],
+ [3.0, "hook", ["MyGroom has", "horsebox MOT", "reminders.", "Just saying."], {"img": "calendar", "vo": "Good news, MyGroom has horsebox MOT reminders. Just saying.", "speed": 1.0}],
+ [5.5, "cta", ["Your turn:", "What's your worst show-day disaster?", "Tell us in the", "comments below"], {"vo": "Has this ever happened to you? What's your worst show-day disaster? Tell us in the comments. And MyGroom's free, link in bio.", "speed": 1.0}]
+]}
