@@ -1,0 +1,6 @@
+{"tag": "horse math", "voice": "bm_lewis", "scenes": [
+ [3.0, "hook", ["Black Friday.", "Saved twenty", "quid on a rug.", "So it was free."], {"img": "shopping_bags", "vo": "Black Friday. Saved twenty quid on a new rug... so technically, it was free.", "speed": 1.0}],
+ [2.8, "hook", ["So I bought", "two more", "to celebrate.", "Horse math."], {"img": "money", "vo": "So I bought two more, to celebrate. That's just horse math.", "speed": 1.0}],
+ [4.2, "screen", ["Want real numbers?", "Spend, per horse.", "money"], {"vo": "Want the real numbers? MyGroom adds up what you've logged for each horse.", "speed": 1.0}],
+ [5.5, "cta", ["Your turn:", "Best Black Friday buy for your horse?", "Tell us in the", "comments below"], {"vo": "What's the best thing you've bought your horse on Black Friday? Tell us in the comments. And MyGroom's free, link in bio.", "speed": 1.0}]
+]}

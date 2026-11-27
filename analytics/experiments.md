@@ -38,3 +38,5 @@ The owner asked on 25 Nov 2026 to use Trial Reels. Every week: two extra Instagr
 | Thu 26 Nov 20:30 | NEW 12 s dark dog walk ("Head torch: on. Dignity: gone.") | Length test (short) | IG reel median, 17-20 s reels | | |
 | Fri 27 Nov 18:00 | W47 reel B "Christmas kennels booked early. Smug." (dog, never posted) | Reach | IG reel median | | |
 | Sat 28 Nov 18:00 | W47 reel A "Rally day... flu jab out of date" (horse, never posted) | Reach | IG reel median | | |
+| Fri 27 Nov 12:00 | NEW Black Friday "Saved twenty quid on a rug. So it was free." Horse Math + money screen (horse), hashtags Set A | Tone test + trend tie-in | IG reel median, "me/when/POV/be honest" reels | | |
+| Fri 27 Nov 20:30 | W48 reel B with "Flea date? The cat knows. You don't." hook (cat), hashtags Set C | Hook test | W48 reel B ("Be honest...") + 25 Nov "POV" trial + IG reel median | | |

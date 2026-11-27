@@ -1,0 +1,6 @@
+{"tag": "has this happened?", "voice": "bm_george", "scenes": [
+ [3.0, "hook", ["Flea date?", "The cat", "knows.", "You don't."], {"img": "cat", "vo": "When was the flea treatment? The cat knows... you don't.", "speed": 1.0}],
+ [2.8, "hook", ["And worming?", "No idea.", "The cat:", "unimpressed."], {"img": "thinking", "vo": "And the worming? No idea. And the cat's not telling.", "speed": 1.0}],
+ [3.2, "hook", ["It's so easy", "to lose track.", "One place for", "every date."], {"img": "calendar", "vo": "It's so easy to lose track. MyGroom keeps every care date in one place.", "speed": 1.0}],
+ [5.5, "cta", ["Your turn:", "How do you remember the cat's flea dates?", "Tell us in the", "comments below"], {"vo": "How do you remember your cat's flea dates? Tell us in the comments. And MyGroom's free, link in bio.", "speed": 1.0}]
+]}
