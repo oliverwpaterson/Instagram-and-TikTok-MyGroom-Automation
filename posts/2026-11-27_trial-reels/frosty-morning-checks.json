@@ -1,0 +1,99 @@
+{
+ "tag": "winter care",
+ "voice": "bf_alice",
+ "scenes": [
+  [
+   3.0,
+   "photohook",
+   [
+    "Frosty morning?",
+    "Three checks",
+    "before work."
+   ],
+   {
+    "photo": "pony-snow.jpg",
+    "label": "Winter horse care",
+    "vo": "Frosty morning? Three quick checks before work.",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "phototip",
+   [
+    1,
+    3,
+    "Break the ice. Then take it out.",
+    "Frozen water is the main reason horses drink less. Check buckets and troughs regularly."
+   ],
+   {
+    "photo": "stable-buckets.jpg",
+    "focus": 0.4,
+    "source": "Advice: RSPCA",
+    "vo": "One. Break the ice, and take it out. Frozen water is the main reason horses drink less.",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "phototip",
+   [
+    2,
+    3,
+    "Hay is their heating.",
+    "Forage keeps them warm from the inside, so keep hay going through the day."
+   ],
+   {
+    "photo": "hay-snow.jpg",
+    "focus": 0.6,
+    "source": "Advice: BHS and RSPCA",
+    "vo": "Two. Hay is their heating, so keep it going through the day.",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "phototip",
+   [
+    3,
+    3,
+    "Hand under the rug.",
+    "Feel right next to the skin at the shoulders and chest. Too cold? Sweaty?"
+   ],
+   {
+    "photo": "rug.jpg",
+    "focus": 0.45,
+    "source": "Advice: RSPCA",
+    "vo": "Three. Hand under the rug, right next to the skin at the shoulders and chest. Too cold, or sweaty?",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "screen",
+   [
+    "Which rug tonight?",
+    "Day and night advice.",
+    "rug-advisor"
+   ],
+   {
+    "vo": "And MyGroom's Rug Advisor suggests a day and night rug from your local forecast.",
+    "speed": 1.0
+   }
+  ],
+  [
+   5.5,
+   "cta",
+   [
+    "Your turn:",
+    "Who's breaking ice before work this week?",
+    "Tell us in the",
+    "comments below"
+   ],
+   {
+    "vo": "Who's breaking ice before work this week? Tell us in the comments. And MyGroom's free, link in bio.",
+    "speed": 1.0
+   }
+  ]
+ ]
+}

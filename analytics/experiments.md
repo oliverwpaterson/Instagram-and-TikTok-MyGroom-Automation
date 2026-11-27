@@ -27,6 +27,7 @@ How to judge (next Sunday's run):
 | (first one from the 29 Nov 2026 run) | | | | | |
 
 ## Instagram Trial Reels (standing, from 25 Nov 2026)
+**Format rule from 27 Nov 2026 (owner):** trial reels are now REAL PHOTOS + PRACTICAL ADVICE (tools/build_photo_reel.py), not the green kinetic-text style, which got 1-14 views and 80-100% skip across the first five trials.
 The owner asked on 25 Nov 2026 to use Trial Reels. Every week: two extra Instagram Trial Reels (shown to non-followers first). Trial 1 = one of that week's reels re-rendered with a different hook (hook test). Trial 2 = a finished reel that never went out on Instagram, or a strong past reel that's still seasonal (reach test; not the same reel twice within 8 weeks). Judge each against the Instagram reel median (~138 views, skip ~42%) and, for hook tests, against the main reel it was paired with. A hook that clearly wins (about 1.5x views or 10+ points lower skip) is used for the next week's main reels.
 
 | Posted | Reel | Type | Compared with | Result | Verdict |
@@ -38,5 +39,7 @@ The owner asked on 25 Nov 2026 to use Trial Reels. Every week: two extra Instagr
 | Thu 26 Nov 20:30 | NEW 12 s dark dog walk ("Head torch: on. Dignity: gone.") | Length test (short) | IG reel median, 17-20 s reels | | |
 | Fri 27 Nov 18:00 | W47 reel B "Christmas kennels booked early. Smug." (dog, never posted) | Reach | IG reel median | | |
 | Sat 28 Nov 18:00 | W47 reel A "Rally day... flu jab out of date" (horse, never posted) | Reach | IG reel median | | |
-| Fri 27 Nov 12:00 | NEW Black Friday "Saved twenty quid on a rug. So it was free." Horse Math + money screen (horse), hashtags Set A | Tone test + trend tie-in | IG reel median, "me/when/POV/be honest" reels | | |
-| Fri 27 Nov 20:30 | W48 reel B with "Flea date? The cat knows. You don't." hook (cat), hashtags Set C | Hook test | W48 reel B ("Be honest...") + 25 Nov "POV" trial + IG reel median | | |
+| Fri 27 Nov 12:00 | NEW real photos + advice: "Frosty morning? Three checks before work." (ice, hay, hand under the rug; RSPCA/BHS) + Rug Advisor screen (horse) | Format test (photo + advice) | All kinetic-text trials + IG reel median | | |
+| Fri 27 Nov 20:30 | NEW real photos + advice: "Got a yard cat? Winter checks for them too." (bed, unfrozen water, antifreeze; Blue Cross/Cats Protection) | Format test (photo + advice) | Cat kinetic-text trials + IG reel median | | |
+| ~~Fri 27 Nov 12:00~~ REPLACED before posting | NEW Black Friday "Saved twenty quid on a rug. So it was free." Horse Math + money screen (horse), hashtags Set A | Tone test + trend tie-in | IG reel median, "me/when/POV/be honest" reels | | |
+| ~~Fri 27 Nov 20:30~~ REPLACED before posting | W48 reel B with "Flea date? The cat knows. You don't." hook (cat), hashtags Set C | Hook test | W48 reel B ("Be honest...") + 25 Nov "POV" trial + IG reel median | | |

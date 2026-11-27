@@ -1,0 +1,7 @@
+{"tag": "winter care", "voice": "bm_daniel", "scenes": [
+ [3.0, "photohook", ["Got a yard cat?", "Winter checks", "for them too."], {"photo": "yard-cat.jpg", "label": "Winter cat care", "vo": "Got a yard cat? They need a few winter checks too.", "speed": 1.0}],
+ [4.2, "phototip", [1, 3, "A warm, dry bed.", "Somewhere draught-free they can always get to, day and night."], {"photo": "grumpy-tabby.jpg", "focus": 0.5, "source": "Advice: Blue Cross", "vo": "One. A warm, dry, draught-free bed, somewhere they can always get to.", "speed": 1.0}],
+ [4.2, "phototip", [2, 3, "Water that isn't frozen.", "If their outdoor water freezes, keep a bowl indoors as well."], {"photo": "bench-cat.jpg", "focus": 0.55, "source": "Advice: Cats Protection", "vo": "Two. Water that isn't frozen. If their outdoor bowl freezes, keep one indoors as well.", "speed": 1.0}],
+ [4.2, "phototip", [3, 3, "Antifreeze is poisonous.", "Keep containers sealed. Think your cat's had some? Call your vet straight away."], {"photo": "window-cats.jpg", "focus": 0.5, "source": "Advice: Blue Cross", "vo": "Three. Antifreeze is highly poisonous to cats. Keep it sealed, and if you think they've had some, call your vet straight away.", "speed": 1.0}],
+ [5.5, "cta", ["Your turn:", "Where does your cat sleep in winter?", "Tell us in the", "comments below"], {"vo": "Where does your cat sleep in winter? Tell us in the comments. And MyGroom's free, link in bio.", "speed": 1.0}]
+]}
