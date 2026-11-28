@@ -1,0 +1,54 @@
+{
+ "tag": "winter cat care",
+ "voice": "bm_fable",
+ "scenes": [
+  [
+   2.5,
+   "photohook",
+   [
+    "Dark by",
+    "half four.",
+    "Can drivers",
+    "see your cat?"
+   ],
+   {
+    "photo": "cat-collar.jpg",
+    "focus": 0.35,
+    "label": "Winter cat care",
+    "vo": "Dark by half four. Can drivers see your cat?",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.0,
+   "phototip",
+   [
+    1,
+    1,
+    "Reflective collar. Quick-release.",
+    "It helps drivers spot them. And keep them in at night if you can."
+   ],
+   {
+    "photo": "cat-grumpy.jpg",
+    "focus": 0.45,
+    "source": "Advice: PDSA",
+    "vo": "Try a reflective, quick-release collar. And keep them in at night if you can.",
+    "speed": 1.0
+   }
+  ],
+  [
+   5.0,
+   "cta",
+   [
+    "Your turn:",
+    "Is your cat in or out at night?",
+    "Tell us in the",
+    "comments below"
+   ],
+   {
+    "vo": "In or out at night? Tell us in the comments. And MyGroom's free, link in bio.",
+    "speed": 1.0
+   }
+  ]
+ ]
+}

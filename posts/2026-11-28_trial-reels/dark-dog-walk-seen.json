@@ -1,0 +1,88 @@
+{
+ "tag": "winter dog walks",
+ "voice": "bf_lily",
+ "scenes": [
+  [
+   3.0,
+   "photohook",
+   [
+    "Dark by",
+    "half four?",
+    "Be seen on",
+    "the dog walk."
+   ],
+   {
+    "photo": "dog-lead.jpg",
+    "focus": 0.5,
+    "label": "Winter dog walks",
+    "vo": "Dark by half four? Three ways to be seen on the dog walk.",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "phototip",
+   [
+    1,
+    3,
+    "Short lead near roads.",
+    "A short, strong lead on a well-fitting collar whenever you're near traffic."
+   ],
+   {
+    "photo": "dog-lead.jpg",
+    "focus": 0.45,
+    "source": "Advice: PDSA",
+    "vo": "One. Near roads, keep them on a short, strong lead, on a collar that fits well.",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "phototip",
+   [
+    2,
+    3,
+    "Light them up.",
+    "A hi-vis dog coat, or an LED collar or tag, so drivers can see you both."
+   ],
+   {
+    "photo": "dog-jacket.jpg",
+    "focus": 0.55,
+    "source": "Advice: PDSA",
+    "vo": "Two. Light them up. A hi-vis coat, or an LED collar or tag, so drivers can see you both.",
+    "speed": 1.0
+   }
+  ],
+  [
+   4.2,
+   "phototip",
+   [
+    3,
+    3,
+    "Sit. Wait. Then walk.",
+    "Teach a sit and wait at the kerb before you cross."
+   ],
+   {
+    "photo": "collie-snow.jpg",
+    "focus": 0.5,
+    "source": "Advice: PDSA",
+    "vo": "Three. Sit, wait, then walk. Teach it at the kerb before you cross.",
+    "speed": 1.0
+   }
+  ],
+  [
+   5.5,
+   "cta",
+   [
+    "Your turn:",
+    "What time is your dog's last walk?",
+    "Tell us in the",
+    "comments below"
+   ],
+   {
+    "vo": "What time's your dog's last walk? Tell us in the comments. And MyGroom's free, link in bio.",
+    "speed": 1.0
+   }
+  ]
+ ]
+}
